@@ -1,0 +1,6 @@
+roles 
+-admin-> CRUD members$leaders CRUD Events Accounts donation, system reports
+-leader-> CRUD events Some specific roles i.e tresure can update accounts
+Handle donation and group cast messaging direct messaging, requests and approval, task schedulng
+-members-> Pay annual fee, group messaging , direct msg making donations
+volunteer , see events , Event and check-ins member self service
